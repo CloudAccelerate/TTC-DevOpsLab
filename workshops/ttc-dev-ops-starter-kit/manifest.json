@@ -4,6 +4,7 @@
         "description": "Workshops designed to help you get started with your trial accounts.",
         "interactive": "https://launch.oracle.com/?ttcdevopsstarterkit",
         "theme": "ttc",
+        "adminpage": "http://innovate.us.oracle.com:81/opcworkshops/overview.html?workshopkey=ttc-dev-ops-starter-kit",
         "labs": [
             {
                 "number": "0",
